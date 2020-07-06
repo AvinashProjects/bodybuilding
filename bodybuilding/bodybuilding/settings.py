@@ -140,5 +140,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 25
 
 
-EMAIL_HOST_USER = 'rankireddy.avinash@gmail.com'
-EMAIL_HOST_PASSWORD = '9866663998'
+EMAIL_HOST_USER = 'pparthibann007@gmail.com'
+EMAIL_HOST_PASSWORD = 'sangarkara@123'
